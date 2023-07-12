@@ -1,0 +1,35 @@
+body {
+    background-color: #AFF199;
+}
+
+.w3-bar {
+    position: relative;
+    left: 20px;
+    border: solid 1px burlywood;
+    width: 200px;
+}
+
+.w3-button {
+    position: inherit;
+    left: 8px;
+    font-size: 25px;
+}
+
+.w3-content {
+    max-width: 1600px;
+    position: relative;
+}
+
+.header {
+    text-align: center;
+}
+
+.menssagge {
+    background-color: black;
+    color: white;
+}
+
+img.image-header {
+    width: 16000;
+    height: 1660;
+}
